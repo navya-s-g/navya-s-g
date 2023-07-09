@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya</h1>
-<h3 align="center">Passionate AI & Data Science student with a focus on ML/AI, Graphic Design and UI/UX enthusiast.</h3>
+<h3 align="center">I'm a passionate student of AI & Data Science with a keen interest in coding, presently focusing my efforts on AI/ML & Development. Additionally, I have a creative side! I find myself drawn to the world of UI/UX design and graphic designing.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
